@@ -1,0 +1,25 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[display]
+width = 412
+height = 732
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = Project
+
+[html5]
+show_fullscreen_button = 0
+show_made_with_defold = 0
+cssfile = /builtins/manifests/web/dark_theme.css
+splash_image = /Textures/preview.png
+
+[library]
+include_dirs = extension
+
